@@ -29,6 +29,7 @@ Got the kicad-kbplacer plugin to place the keys instead and made the layout in K
 
 **2026-07-16 - Numbering everything:**
 Had to number all the keys in KLE because kbplacer wouldn't place them correctly without an index, renamed all the rows and columns so it would recognize them.
+![KLE layout](photos/numbered-KLE-Layout.png)
 
 **2026-07-17 - Routing:**
 Routing cables and rerouting until they fit.
