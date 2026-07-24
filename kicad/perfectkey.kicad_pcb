@@ -142,6 +142,12 @@
 		(path "/ac3ac589-b563-4712-a8b4-9b389054982a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -429,6 +435,12 @@
 		(path "/39279721-32c9-40dd-8003-8bea3c4efd46")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -716,6 +728,12 @@
 		(path "/97714368-8ab7-4c80-ad81-16a08824fb38")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1003,6 +1021,12 @@
 		(path "/726556e0-b0e3-47a9-8120-e3ee22fb0be2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1290,6 +1314,12 @@
 		(path "/583a4fb9-0a16-4f6f-b62c-d77e4f6f3f05")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1577,6 +1607,12 @@
 		(path "/7f3a61cf-d85b-4dd8-8ead-00ec2acbd497")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1864,6 +1900,12 @@
 		(path "/ac297fb0-3f22-46e0-b3e4-cbdeb07fcc77")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2151,6 +2193,12 @@
 		(path "/ec592b15-8277-43a7-bc12-39ad63dcf894")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2438,6 +2486,12 @@
 		(path "/f33d13fb-e018-42e5-bf62-a8d6419c3c0d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2725,6 +2779,12 @@
 		(path "/3201c846-20b4-4fe3-a8e6-7550c2400da7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3012,6 +3072,12 @@
 		(path "/ca5b7fdd-5828-4c13-90ad-ea3fb787a80c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3299,6 +3365,12 @@
 		(path "/86e6d695-445a-4722-a922-08e28c965ad8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3586,6 +3658,12 @@
 		(path "/d087dc25-e117-4616-9e10-83423665acf7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3873,6 +3951,12 @@
 		(path "/5449f40f-1949-4215-8cc3-a78bb419c673")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4160,6 +4244,12 @@
 		(path "/4b705b6d-9d00-4d17-9e94-1b85c806bbc7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4393,417 +4483,6 @@
 			)
 		)
 	)
-	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
-		(layer "F.Cu")
-		(uuid "376febe5-7070-49dc-92f7-1f0ab4008ff5")
-		(at -122.80875 31.72015)
-		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 2u")
-		(property "Reference" "S2"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e0e8efd2-b502-43bb-ae4b-b3c25316c19b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 0 8.128 0)
-			(layer "Cmts.User")
-			(uuid "2fb71925-0d61-4d61-856c-61301fb6a186")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1a0a8c21-1866-4cf8-ba48-9e576aeea72a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c9fd9926-df50-43bf-8ec2-5695b7c0807f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(path "/09e8760e-6e71-44c9-b3f8-ac052e5180f0")
-		(sheetname "/")
-		(sheetfile "perfectkey.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "ebaca5f2-3bc3-493d-9d6d-0461e2f34e4b")
-		)
-		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "fa82bd3f-2373-4867-a1ac-bb9aa4759657")
-		)
-		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "aa301dcb-7bdc-47fa-973b-044ec9601726")
-		)
-		(fp_line
-			(start -7 -7)
-			(end -5 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7c2abb19-326f-43b1-a584-303beaaab240")
-		)
-		(fp_line
-			(start -7 -5)
-			(end -7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "a0e36ec0-270c-4baa-bb72-4c1ee7d4988a")
-		)
-		(fp_line
-			(start -7 7)
-			(end -7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c5fb615c-ca7b-4641-b383-acd1d8738e94")
-		)
-		(fp_line
-			(start -5 7)
-			(end -7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7522a109-4ca7-4fec-90fc-72d016bf0485")
-		)
-		(fp_line
-			(start 5 -7)
-			(end 7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7f415015-0372-435a-be17-0fc4e6e0b62f")
-		)
-		(fp_line
-			(start 5 7)
-			(end 7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "d7a1b59d-478e-49a3-8d47-7b3d5de62c64")
-		)
-		(fp_line
-			(start 7 -7)
-			(end 7 -5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "d4460031-cb41-43a0-9e15-e761b67ed1d7")
-		)
-		(fp_line
-			(start 7 7)
-			(end 7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "e8be3eb1-16ee-4c66-84ed-3eb87afff691")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "130aaafd-378c-4864-b6b3-3f2e6606bfe5")
-		)
-		(fp_line
-			(start -15.28125 -5.499999)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "7bcb9c32-702e-4796-b08d-881f34cd9004")
-		)
-		(fp_line
-			(start -14.78125 -5.999999)
-			(end -9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a1b355c8-324b-4c11-8bb5-87012d527dcb")
-		)
-		(fp_line
-			(start -14.78125 8.000001)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "dddaa858-6502-4fe3-b63b-04cd135dd1ba")
-		)
-		(fp_line
-			(start -8.53125 -5.499999)
-			(end -8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "683e8872-ae7e-49bd-8768-3526c0343950")
-		)
-		(fp_line
-			(start 8.53125 -5.499999)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "f0a12000-d7e4-4a9e-8005-c8cc79121ce1")
-		)
-		(fp_line
-			(start 9.03125 -5.999999)
-			(end 14.780039 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "89cf6297-504e-4cab-8012-6eabe2c33b4e")
-		)
-		(fp_line
-			(start 9.03125 8.000001)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "175bb07e-7720-4594-9d33-6edb0eaafa14")
-		)
-		(fp_line
-			(start 15.280039 -5.499999)
-			(end 15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "c120aa0d-583a-40af-b498-2183fe6878b8")
-		)
-		(fp_arc
-			(start -15.28125 -5.499999)
-			(mid -15.134803 -5.853552)
-			(end -14.78125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "34f0daae-d5c4-4bcf-8c93-87e9f4e4566e")
-		)
-		(fp_arc
-			(start -14.78125 8.000001)
-			(mid -15.134803 7.853554)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "0d0cf6d1-d695-41bb-8d4d-4ffb3a1112a7")
-		)
-		(fp_arc
-			(start -9.03125 -5.999999)
-			(mid -8.677697 -5.853552)
-			(end -8.53125 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "b51c6132-2e25-4fa1-909c-659fa387b85d")
-		)
-		(fp_arc
-			(start -8.53125 7.500001)
-			(mid -8.677697 7.853554)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "db632de6-29d3-4d41-ae2b-53f710fac946")
-		)
-		(fp_arc
-			(start 8.53125 -5.499999)
-			(mid 8.677697 -5.853552)
-			(end 9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "e5c72a49-35cd-42cd-947c-4f403805f2db")
-		)
-		(fp_arc
-			(start 9.03125 8.000001)
-			(mid 8.677697 7.853554)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "beb8c7d8-3f6d-4029-8092-78bb356297c3")
-		)
-		(fp_arc
-			(start 14.780039 -5.999999)
-			(mid 15.133592 -5.853552)
-			(end 15.280039 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "9c79c3c5-f4b4-4e79-b39a-e7ae7e8afc45")
-		)
-		(fp_arc
-			(start 15.28125 7.500001)
-			(mid 15.134803 7.853554)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a3fb9607-01d6-44fc-8335-3787866d3d50")
-		)
-		(fp_circle
-			(center -11.90625 -6.985)
-			(end -9.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "c82241a0-20b5-4230-a833-0cc0b72d68a1")
-		)
-		(fp_circle
-			(center 11.90625 -6.985)
-			(end 13.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "56271706-b0fd-4700-8d9c-6fc5f32318e8")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "e89787dd-a8dc-4c84-9f4a-f7d55e9e7ead")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "19ae270c-f88b-4356-9783-805cc286ab23")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "ad85a1fc-67d6-4b6b-b186-4ee0a5123ffe")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "7332562d-24e5-4c54-b20b-bf2001892b9b")
-		)
-		(group ""
-			(uuid "5cbc2f33-866f-4b78-b022-7488c551746a")
-			(members "175bb07e-7720-4594-9d33-6edb0eaafa14" "89cf6297-504e-4cab-8012-6eabe2c33b4e"
-				"9c79c3c5-f4b4-4e79-b39a-e7ae7e8afc45" "a3fb9607-01d6-44fc-8335-3787866d3d50"
-				"beb8c7d8-3f6d-4029-8092-78bb356297c3" "c120aa0d-583a-40af-b498-2183fe6878b8"
-				"e5c72a49-35cd-42cd-947c-4f403805f2db" "f0a12000-d7e4-4a9e-8005-c8cc79121ce1"
-			)
-		)
-		(group ""
-			(uuid "6cd5ceb2-6ba8-42d9-b978-b36d2954380b")
-			(members "0d0cf6d1-d695-41bb-8d4d-4ffb3a1112a7" "34f0daae-d5c4-4bcf-8c93-87e9f4e4566e"
-				"683e8872-ae7e-49bd-8768-3526c0343950" "7bcb9c32-702e-4796-b08d-881f34cd9004"
-				"a1b355c8-324b-4c11-8bb5-87012d527dcb" "b51c6132-2e25-4fa1-909c-659fa387b85d"
-				"db632de6-29d3-4d41-ae2b-53f710fac946" "dddaa858-6502-4fe3-b63b-04cd135dd1ba"
-			)
-		)
-		(embedded_fonts no)
-	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "3ba6658a-d13e-4e83-b721-8a1566a6a6d5")
@@ -4858,6 +4537,12 @@
 		(path "/9e777b9b-0b73-42d5-9333-cb17ff2e4200")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5145,6 +4830,12 @@
 		(path "/5f78dd0d-7b35-4483-849d-1a4732956ad6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5378,417 +5069,6 @@
 			)
 		)
 	)
-	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
-		(layer "F.Cu")
-		(uuid "3ed7bc37-6ee2-47bc-ba7a-84a190e90859")
-		(at -122.80875 72.30795)
-		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 2u")
-		(property "Reference" "S4"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "61ef95a4-a183-4deb-b899-8a8fde29ba16")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 0 8.128 0)
-			(layer "Cmts.User")
-			(uuid "5d930f8e-8390-471b-8fe4-8d0a85721dc9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "01802720-994a-4cd3-9c6f-8798e2a473ae")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d000e6bf-c11b-4863-a8d1-2f914cbd991d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(path "/60078e4b-5fa1-42d4-914a-19f137e24d1c")
-		(sheetname "/")
-		(sheetfile "perfectkey.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "714d6265-d58c-4d8a-ba71-5d4ae247be99")
-		)
-		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "75e9d690-85a0-4406-8811-3424703d9510")
-		)
-		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7dbac419-8b1c-4d3c-989e-0126e7d499d3")
-		)
-		(fp_line
-			(start -7 -7)
-			(end -5 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c603cb22-9de0-4ad2-bd55-14f5bcfe69ff")
-		)
-		(fp_line
-			(start -7 -5)
-			(end -7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "f2f28572-e720-483b-ad39-130ef1ada6cc")
-		)
-		(fp_line
-			(start -7 7)
-			(end -7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "8165e6d6-06f6-49a3-9a7a-0dfe1bac5e01")
-		)
-		(fp_line
-			(start -5 7)
-			(end -7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "11528edf-a13e-4690-8e1e-99693bcc690f")
-		)
-		(fp_line
-			(start 5 -7)
-			(end 7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c2572eb3-43a4-4ec3-b6f1-69ff5e49dd0b")
-		)
-		(fp_line
-			(start 5 7)
-			(end 7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "fde8a176-46bb-4fcc-bea1-b7266eaf69ed")
-		)
-		(fp_line
-			(start 7 -7)
-			(end 7 -5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "ee180669-63de-4d65-bd49-bc56d57f2f54")
-		)
-		(fp_line
-			(start 7 7)
-			(end 7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "0826891c-eaa6-4927-b718-fa323ba7e50f")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "83be60e2-adbf-44b5-97a9-db3b6545faa9")
-		)
-		(fp_line
-			(start -15.28125 -5.499999)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "589066da-3f27-4d91-8eee-206a5c220b3f")
-		)
-		(fp_line
-			(start -14.78125 -5.999999)
-			(end -9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "8bd51229-da7e-4515-a104-80ddea94349e")
-		)
-		(fp_line
-			(start -14.78125 8.000001)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "1ef1e09f-4c2c-458c-a3c4-093f9b051159")
-		)
-		(fp_line
-			(start -8.53125 -5.499999)
-			(end -8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "007d16d4-47fe-4625-b439-60e0776aa17e")
-		)
-		(fp_line
-			(start 8.53125 -5.499999)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5faa6fa0-d5ee-4718-83d6-c6cc7f160d41")
-		)
-		(fp_line
-			(start 9.03125 -5.999999)
-			(end 14.780039 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "b3842814-1139-46d1-8624-d65faf087fbf")
-		)
-		(fp_line
-			(start 9.03125 8.000001)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "60328035-ad08-4034-8f67-a16068750ab6")
-		)
-		(fp_line
-			(start 15.280039 -5.499999)
-			(end 15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "c02a6315-8938-4833-92f3-a8390de44001")
-		)
-		(fp_arc
-			(start -15.28125 -5.499999)
-			(mid -15.134803 -5.853552)
-			(end -14.78125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "94aa0825-84ac-43ff-851b-a08466857080")
-		)
-		(fp_arc
-			(start -14.78125 8.000001)
-			(mid -15.134803 7.853554)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "27a2824a-20de-425b-8747-578653779824")
-		)
-		(fp_arc
-			(start -9.03125 -5.999999)
-			(mid -8.677697 -5.853552)
-			(end -8.53125 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "02017ab4-40ec-4f8d-95b0-7d29b3924bc4")
-		)
-		(fp_arc
-			(start -8.53125 7.500001)
-			(mid -8.677697 7.853554)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "bd0fb2c2-a810-46cf-b66b-52bde7eee89b")
-		)
-		(fp_arc
-			(start 8.53125 -5.499999)
-			(mid 8.677697 -5.853552)
-			(end 9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "80c86866-28a5-4e28-9186-6ec3cea278fa")
-		)
-		(fp_arc
-			(start 9.03125 8.000001)
-			(mid 8.677697 7.853554)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "328e2309-e4f0-4f70-82f1-ffd2ab6bd105")
-		)
-		(fp_arc
-			(start 14.780039 -5.999999)
-			(mid 15.133592 -5.853552)
-			(end 15.280039 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "4fb97f45-f31f-4c42-8a97-3febdaea9365")
-		)
-		(fp_arc
-			(start 15.28125 7.500001)
-			(mid 15.134803 7.853554)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a635ed27-5e1b-45e9-937d-b48c480f208c")
-		)
-		(fp_circle
-			(center -11.90625 -6.985)
-			(end -9.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "949cf2a1-0b0e-4d25-aa11-9831b05d85be")
-		)
-		(fp_circle
-			(center 11.90625 -6.985)
-			(end 13.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "aa175cbf-d9df-44a8-8e91-514140c6549b")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "f2cc351d-f93e-4bc1-b971-f8f5a0c68f74")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "8888325e-2335-482f-ae09-40ca2e9e0358")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "41c89a84-adf6-4b64-a23f-e8725b3c0559")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "d3559d6d-4924-45d8-8e30-3b88099a2230")
-		)
-		(group ""
-			(uuid "610f0187-d9e1-458b-b504-f38b1c2ff370")
-			(members "007d16d4-47fe-4625-b439-60e0776aa17e" "02017ab4-40ec-4f8d-95b0-7d29b3924bc4"
-				"1ef1e09f-4c2c-458c-a3c4-093f9b051159" "27a2824a-20de-425b-8747-578653779824"
-				"589066da-3f27-4d91-8eee-206a5c220b3f" "8bd51229-da7e-4515-a104-80ddea94349e"
-				"94aa0825-84ac-43ff-851b-a08466857080" "bd0fb2c2-a810-46cf-b66b-52bde7eee89b"
-			)
-		)
-		(group ""
-			(uuid "e1ae5d98-0d1a-428a-870d-0c8f7fefff18")
-			(members "328e2309-e4f0-4f70-82f1-ffd2ab6bd105" "4fb97f45-f31f-4c42-8a97-3febdaea9365"
-				"5faa6fa0-d5ee-4718-83d6-c6cc7f160d41" "60328035-ad08-4034-8f67-a16068750ab6"
-				"80c86866-28a5-4e28-9186-6ec3cea278fa" "a635ed27-5e1b-45e9-937d-b48c480f208c"
-				"b3842814-1139-46d1-8624-d65faf087fbf" "c02a6315-8938-4833-92f3-a8390de44001"
-			)
-		)
-		(embedded_fonts no)
-	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "4131d468-481d-437f-9ea1-33f53457095d")
@@ -5843,6 +5123,12 @@
 		(path "/c7d4e3ba-3c48-47b1-8486-0348c4fea504")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6135,6 +5421,15 @@
 		(path "/b9e875b3-aa63-48f5-be58-75be3272e3ec")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "30" "37" "1" "2" "4" "5" "6" "7" "9" "10" "11" "12" "14" "15"
+					"16" "17" "19" "20" "39" "40" "3" "23" "28" "18" "13" "38" "8" "36"
+					"21" "22" "24" "25" "26" "27" "29" "35" "31" "32" "34" "33"
+				)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7683,6 +6978,12 @@
 		(path "/84172164-aa00-4dd5-b64e-3d4c23c5c0bb")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7970,6 +7271,12 @@
 		(path "/555017d7-2b05-4780-8917-305226682c3c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8257,6 +7564,12 @@
 		(path "/fac13308-c5d8-44c0-b3bf-fc12d2857e71")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8544,6 +7857,12 @@
 		(path "/cfcc3881-4c6c-4218-bf70-84dc4b823f8c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8831,6 +8150,12 @@
 		(path "/39a9a06e-b98c-4f4d-a022-168be6cc4042")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9118,6 +8443,12 @@
 		(path "/45ec087e-20d1-416b-9089-70c0a495009b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9405,6 +8736,12 @@
 		(path "/ee05fbc4-16af-4901-b2a9-e14c67087b8f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9692,6 +9029,12 @@
 		(path "/afa42020-7889-4e32-8081-8489d39abe68")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9979,6 +9322,12 @@
 		(path "/2857a160-12f7-4eff-af6f-0bd37fcc809e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10266,6 +9615,12 @@
 		(path "/063defae-d5cd-4e95-a5f0-2caf6a83e228")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10553,6 +9908,12 @@
 		(path "/e1913f9d-32f2-4dcb-919d-cef1b41f8e33")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10840,6 +10201,12 @@
 		(path "/7848885f-3a5f-4bd0-a41e-7cc0fd6735c9")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11127,6 +10494,12 @@
 		(path "/697582e5-0ccb-4f00-9fa0-927d75fb214f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11414,6 +10787,12 @@
 		(path "/52afe8c7-9fa9-4aaf-a87a-ee615588e417")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11701,6 +11080,12 @@
 		(path "/b49fc459-e3a1-40b5-aae9-0b4e1e99fc39")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11988,6 +11373,12 @@
 		(path "/bf4294d6-5689-43e8-803f-86a635430a9d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12221,11 +11612,11 @@
 			)
 		)
 	)
-	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
+	(footprint "PCM_marbastlib-mx:STAB_MX_7u"
 		(layer "F.Cu")
 		(uuid "85b5da7c-8dfc-41e8-9166-636239be7773")
-		(at -122.80875 11.42625)
-		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 2u")
+		(at 142.875 128.5875)
+		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 7u")
 		(property "Reference" "S1"
 			(at 0 0 0)
 			(layer "F.SilkS")
@@ -12274,11 +11665,17 @@
 		(path "/464fd767-b77c-4049-8d88-98894513f1a0")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
+			(start -66.675 -9.525)
+			(end -66.675 9.525)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12287,24 +11684,24 @@
 			(uuid "560ab4d4-c63d-433e-8eae-09104d857939")
 		)
 		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "844c21ff-f4e2-4fef-ab96-7430ebcdc823")
-		)
-		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
+			(start -66.675 -9.525)
+			(end 66.675 -9.525)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Dwgs.User")
 			(uuid "bb8d533a-b9a0-437b-9961-081a9500ac81")
+		)
+		(fp_line
+			(start -66.675 9.525)
+			(end 66.675 9.525)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "5fe3d36a-8863-4d74-ab04-dc4d494878a8")
 		)
 		(fp_line
 			(start -7 -7)
@@ -12387,48 +11784,18 @@
 			(uuid "36da6a16-c2a2-433b-808b-b797f2e7d51c")
 		)
 		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
+			(start 66.675 -9.525)
+			(end 66.675 9.525)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "5fe3d36a-8863-4d74-ab04-dc4d494878a8")
+			(uuid "844c21ff-f4e2-4fef-ab96-7430ebcdc823")
 		)
 		(fp_line
-			(start -15.28125 -5.499999)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "ad73e5c9-c414-44cf-ac60-deb742b5827d")
-		)
-		(fp_line
-			(start -14.78125 -5.999999)
-			(end -9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "958cb435-a26e-4ac1-bd73-c772255cafee")
-		)
-		(fp_line
-			(start -14.78125 8.000001)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a50db856-d02d-4ce5-b6f5-47d8c8e0dabd")
-		)
-		(fp_line
-			(start -8.53125 -5.499999)
-			(end -8.53125 7.500001)
+			(start -60.525 -5.499999)
+			(end -60.525 7.500001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12437,18 +11804,8 @@
 			(uuid "d309e363-6357-4150-b7a3-3becc6362e41")
 		)
 		(fp_line
-			(start 8.53125 -5.499999)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "8d69c6e8-b397-486c-84b3-4451baf735f1")
-		)
-		(fp_line
-			(start 9.03125 -5.999999)
-			(end 14.780039 -5.999999)
+			(start -60.025 -5.999999)
+			(end -54.275 -5.999999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12457,8 +11814,38 @@
 			(uuid "37760489-5768-4ffc-91d7-4ff0c762c576")
 		)
 		(fp_line
-			(start 9.03125 8.000001)
-			(end 14.78125 8.000001)
+			(start -60.025 8.000001)
+			(end -54.275 8.000001)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "d5d254e6-f036-4c27-a137-b5d0353cda8b")
+		)
+		(fp_line
+			(start -53.775 -5.499999)
+			(end -53.775 7.500001)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "8d69c6e8-b397-486c-84b3-4451baf735f1")
+		)
+		(fp_line
+			(start 53.775 -5.499999)
+			(end 53.775 7.500001)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "ad73e5c9-c414-44cf-ac60-deb742b5827d")
+		)
+		(fp_line
+			(start 54.275 -5.999999)
+			(end 60.023789 -5.999999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12467,41 +11854,29 @@
 			(uuid "d5b5d6ea-3f4d-47a0-8fbd-cedf5d674c17")
 		)
 		(fp_line
-			(start 15.280039 -5.499999)
-			(end 15.28125 7.500001)
+			(start 54.275 8.000001)
+			(end 60.025 8.000001)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "Eco2.User")
-			(uuid "d5d254e6-f036-4c27-a137-b5d0353cda8b")
+			(uuid "958cb435-a26e-4ac1-bd73-c772255cafee")
 		)
-		(fp_arc
-			(start -15.28125 -5.499999)
-			(mid -15.134803 -5.853552)
-			(end -14.78125 -5.999999)
+		(fp_line
+			(start 60.523789 -5.499999)
+			(end 60.525 7.500001)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "Eco2.User")
-			(uuid "deb0e5f2-920a-409d-ad2f-df397edbca2a")
+			(uuid "a50db856-d02d-4ce5-b6f5-47d8c8e0dabd")
 		)
 		(fp_arc
-			(start -14.78125 8.000001)
-			(mid -15.134803 7.853554)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "2e7e80b2-aa83-403a-ba29-abab2cb0a01f")
-		)
-		(fp_arc
-			(start -9.03125 -5.999999)
-			(mid -8.677697 -5.853552)
-			(end -8.53125 -5.499999)
+			(start -60.525 -5.499999)
+			(mid -60.378553 -5.853552)
+			(end -60.025 -5.999999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12510,9 +11885,9 @@
 			(uuid "b6e2671e-165d-473a-bfe2-f35307028473")
 		)
 		(fp_arc
-			(start -8.53125 7.500001)
-			(mid -8.677697 7.853554)
-			(end -9.03125 8.000001)
+			(start -60.025 8.000001)
+			(mid -60.378553 7.853554)
+			(end -60.525 7.500001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12521,20 +11896,31 @@
 			(uuid "8dee4e36-0a06-4d1b-a877-b234e9a297f7")
 		)
 		(fp_arc
-			(start 8.53125 -5.499999)
-			(mid 8.677697 -5.853552)
-			(end 9.03125 -5.999999)
+			(start -54.275 -5.999999)
+			(mid -53.921447 -5.853552)
+			(end -53.775 -5.499999)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "Eco2.User")
-			(uuid "99bd0971-3193-4cfa-993a-8d78f83262f8")
+			(uuid "2e7e80b2-aa83-403a-ba29-abab2cb0a01f")
 		)
 		(fp_arc
-			(start 9.03125 8.000001)
-			(mid 8.677697 7.853554)
-			(end 8.53125 7.500001)
+			(start -53.775 7.500001)
+			(mid -53.921447 7.853554)
+			(end -54.275 8.000001)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "b044b95f-f8d9-4655-99d0-e1922d145108")
+		)
+		(fp_arc
+			(start 53.775 -5.499999)
+			(mid 53.921447 -5.853552)
+			(end 54.275 -5.999999)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12543,9 +11929,9 @@
 			(uuid "0b0dc56f-64b4-4437-a3b0-bf3df142c4f1")
 		)
 		(fp_arc
-			(start 14.780039 -5.999999)
-			(mid 15.133592 -5.853552)
-			(end 15.280039 -5.499999)
+			(start 54.275 8.000001)
+			(mid 53.921447 7.853554)
+			(end 53.775 7.500001)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -12554,19 +11940,30 @@
 			(uuid "cdd1d5e0-e232-4924-a409-7d014b4ba89d")
 		)
 		(fp_arc
-			(start 15.28125 7.500001)
-			(mid 15.134803 7.853554)
-			(end 14.78125 8.000001)
+			(start 60.023789 -5.999999)
+			(mid 60.377342 -5.853552)
+			(end 60.523789 -5.499999)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "Eco2.User")
-			(uuid "b044b95f-f8d9-4655-99d0-e1922d145108")
+			(uuid "99bd0971-3193-4cfa-993a-8d78f83262f8")
+		)
+		(fp_arc
+			(start 60.525 7.500001)
+			(mid 60.378553 7.853554)
+			(end 60.025 8.000001)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "Eco2.User")
+			(uuid "deb0e5f2-920a-409d-ad2f-df397edbca2a")
 		)
 		(fp_circle
-			(center -11.90625 -6.985)
-			(end -9.90625 -6.985)
+			(center -57.15 -6.985)
+			(end -55.15 -6.985)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12576,8 +11973,8 @@
 			(uuid "210c9643-48b2-47bd-acaf-11f84a61ca05")
 		)
 		(fp_circle
-			(center 11.90625 -6.985)
-			(end 13.90625 -6.985)
+			(center 57.15 -6.985)
+			(end 59.15 -6.985)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12587,28 +11984,28 @@
 			(uuid "89a06867-4787-4648-859a-2e9a34585e97")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.90625 -6.985)
+			(at -57.15 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "9efa9e64-9055-4d54-ae5f-030c8ed808cb")
 		)
 		(pad "" np_thru_hole circle
-			(at -11.90625 8.255)
+			(at -57.15 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
 			(uuid "f3807615-a16b-4b90-898b-5ac71a20e928")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.90625 -6.985)
+			(at 57.15 -6.985)
 			(size 3.048 3.048)
 			(drill 3.048)
 			(layers "*.Cu" "*.Mask")
 			(uuid "3aa69e12-3875-4f4d-b857-289b1acd2040")
 		)
 		(pad "" np_thru_hole circle
-			(at 11.90625 8.255)
+			(at 57.15 8.255)
 			(size 3.9878 3.9878)
 			(drill 3.9878)
 			(layers "*.Cu" "*.Mask")
@@ -12616,18 +12013,18 @@
 		)
 		(group ""
 			(uuid "64b72ab9-8da2-4155-8af6-cfa047a93ae1")
-			(members "0b0dc56f-64b4-4437-a3b0-bf3df142c4f1" "37760489-5768-4ffc-91d7-4ff0c762c576"
-				"8d69c6e8-b397-486c-84b3-4451baf735f1" "99bd0971-3193-4cfa-993a-8d78f83262f8"
-				"b044b95f-f8d9-4655-99d0-e1922d145108" "cdd1d5e0-e232-4924-a409-7d014b4ba89d"
-				"d5b5d6ea-3f4d-47a0-8fbd-cedf5d674c17" "d5d254e6-f036-4c27-a137-b5d0353cda8b"
+			(members "0b0dc56f-64b4-4437-a3b0-bf3df142c4f1" "958cb435-a26e-4ac1-bd73-c772255cafee"
+				"99bd0971-3193-4cfa-993a-8d78f83262f8" "a50db856-d02d-4ce5-b6f5-47d8c8e0dabd"
+				"ad73e5c9-c414-44cf-ac60-deb742b5827d" "cdd1d5e0-e232-4924-a409-7d014b4ba89d"
+				"d5b5d6ea-3f4d-47a0-8fbd-cedf5d674c17" "deb0e5f2-920a-409d-ad2f-df397edbca2a"
 			)
 		)
 		(group ""
 			(uuid "7e4c7aeb-0a50-4068-8c4b-dd8535a119b4")
-			(members "2e7e80b2-aa83-403a-ba29-abab2cb0a01f" "8dee4e36-0a06-4d1b-a877-b234e9a297f7"
-				"958cb435-a26e-4ac1-bd73-c772255cafee" "a50db856-d02d-4ce5-b6f5-47d8c8e0dabd"
-				"ad73e5c9-c414-44cf-ac60-deb742b5827d" "b6e2671e-165d-473a-bfe2-f35307028473"
-				"d309e363-6357-4150-b7a3-3becc6362e41" "deb0e5f2-920a-409d-ad2f-df397edbca2a"
+			(members "2e7e80b2-aa83-403a-ba29-abab2cb0a01f" "37760489-5768-4ffc-91d7-4ff0c762c576"
+				"8d69c6e8-b397-486c-84b3-4451baf735f1" "8dee4e36-0a06-4d1b-a877-b234e9a297f7"
+				"b044b95f-f8d9-4655-99d0-e1922d145108" "b6e2671e-165d-473a-bfe2-f35307028473"
+				"d309e363-6357-4150-b7a3-3becc6362e41" "d5d254e6-f036-4c27-a137-b5d0353cda8b"
 			)
 		)
 		(embedded_fonts no)
@@ -12686,6 +12083,12 @@
 		(path "/e60f565f-6c14-4fe4-9f14-48584ece0692")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12973,6 +12376,12 @@
 		(path "/2094652e-90b2-4b2e-a61b-fa1ae2584a20")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13260,6 +12669,12 @@
 		(path "/afab8336-7cb6-4c3d-956d-fcc82bf04e86")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13547,6 +12962,12 @@
 		(path "/49df8614-5f2e-4324-994f-651e99c9bc6c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13834,6 +13255,12 @@
 		(path "/deddaf5b-20a3-46d2-9c22-4eb17aba9f08")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14121,6 +13548,12 @@
 		(path "/6a816438-a16a-4d48-a185-008b04a623a8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14408,6 +13841,12 @@
 		(path "/766c1749-b0c9-4f98-a4ce-eda0a313396d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14695,6 +14134,12 @@
 		(path "/9c66cd88-d5d5-4a4e-8ce3-51c9d96cfc0f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14982,6 +14427,12 @@
 		(path "/8f938738-1a68-4434-be69-b566cd247b0a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15269,6 +14720,12 @@
 		(path "/ef70eddd-79bd-4978-a978-5fae41f895e7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15556,6 +15013,12 @@
 		(path "/175fcc1b-6f7f-48c4-968d-32c4c76e69d1")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15843,6 +15306,12 @@
 		(path "/0ffb3246-c14c-4dbc-9f0c-5bf9a1448a02")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16130,6 +15599,12 @@
 		(path "/087fd76a-1b1a-413d-8c64-f22603dd748d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16417,6 +15892,12 @@
 		(path "/2925bcfd-00e4-4b6a-9ebb-2ad6026c3baa")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16704,6 +16185,12 @@
 		(path "/1c08cf7c-789d-48a2-9876-93b04c7c321b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16991,6 +16478,12 @@
 		(path "/b0e5c81d-d791-4115-b108-7186f6af7a8a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17278,6 +16771,12 @@
 		(path "/b445515f-2f8c-4d37-ab1a-e7931bf36634")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17565,6 +17064,12 @@
 		(path "/5b2384a3-827d-43c0-bb2f-0fc228211084")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17852,6 +17357,12 @@
 		(path "/00c9b090-891f-49a6-a674-154690a85436")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18139,6 +17650,12 @@
 		(path "/37272bc5-040d-4b74-a80b-b40af3be8935")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18426,6 +17943,12 @@
 		(path "/d8d95727-ad1a-4d3e-9ab9-07d686f35f3e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18713,6 +18236,12 @@
 		(path "/b4f52b9a-cd00-4dde-9e79-d70846f6064b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19000,6 +18529,12 @@
 		(path "/173f9350-6774-4981-b7a3-391054740c7d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19287,6 +18822,12 @@
 		(path "/9a71df2f-07c5-4783-9c70-15c0cc64c441")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19574,6 +19115,12 @@
 		(path "/f91e30c2-f7ec-4305-bca8-cd2b22b40a09")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19861,6 +19408,12 @@
 		(path "/be47e116-f8ea-4756-b167-6b9621d7765f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20148,6 +19701,12 @@
 		(path "/a6109bc0-45c8-4706-872d-85513c6b34d4")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20435,6 +19994,12 @@
 		(path "/7d9e9c31-6f79-48b6-aead-861306f59240")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20722,6 +20287,12 @@
 		(path "/9f3d5566-874a-4142-89c7-d6a28aec5fe7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21009,6 +20580,12 @@
 		(path "/73854aeb-e78f-40e1-9971-12e9691365cd")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21296,6 +20873,12 @@
 		(path "/76b4313f-3304-4c72-9e5a-598d664f1f2d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21583,6 +21166,12 @@
 		(path "/33d25197-d8ea-4221-ad98-e10097cd3d97")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21870,6 +21459,12 @@
 		(path "/279f8ddc-cf25-4b8f-a9da-60b43392dd6c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22157,6 +21752,12 @@
 		(path "/3a239f3d-a971-4b64-89f4-6c31a3a7a68e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22444,6 +22045,12 @@
 		(path "/aef1e62a-ba79-4b9c-9de8-a1f4dcd1fc37")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22731,6 +22338,12 @@
 		(path "/dd953035-e2d0-42e6-bca8-27522af4d43d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23018,6 +22631,12 @@
 		(path "/0be2b4ff-3cd3-4ef4-a6fb-aea6723662f6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23305,6 +22924,12 @@
 		(path "/a4bbdba5-64c9-4f4f-9f11-64482901ccdb")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23592,6 +23217,12 @@
 		(path "/61a49a59-752a-4385-af10-64e3afe09df9")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23879,6 +23510,12 @@
 		(path "/da504480-0b2c-4952-8146-961218182047")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24166,6 +23803,12 @@
 		(path "/74f9d46c-3fd2-47a2-aa1d-16a8291ee95e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24453,6 +24096,12 @@
 		(path "/65210b01-8629-4fab-8f4e-dad5fe322ff1")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24740,6 +24389,12 @@
 		(path "/0da4bd3a-5410-4543-a2a7-f7207c3a731f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25027,6 +24682,12 @@
 		(path "/fe0ab64b-9336-4f1d-853f-f60052bd5d88")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25314,6 +24975,12 @@
 		(path "/58452ac3-0a82-4f4c-837c-22ddee0c9005")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25601,6 +25268,12 @@
 		(path "/0de4f0d3-2039-494b-8904-348b5c8967a5")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25888,6 +25561,12 @@
 		(path "/7022ed90-0e33-4e3a-a461-44e4d09e4fc6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26121,417 +25800,6 @@
 			)
 		)
 	)
-	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
-		(layer "F.Cu")
-		(uuid "f29ab486-8dc5-4c7c-ae5c-86a3df79de12")
-		(at -122.80875 92.60185)
-		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 2u")
-		(property "Reference" "S5"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "487fe00f-db34-43e6-91cd-0b2f3e26178b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 0 8.128 0)
-			(layer "Cmts.User")
-			(uuid "0c459d1a-652e-4486-a862-f0919e0d062e")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "20f97356-e7ea-4b17-95a2-54f73b0fe385")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1f71cc77-fde7-4828-9ded-f83a19c8dad0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(path "/431f37bb-07e4-4c08-9c1e-c7c704b8a6df")
-		(sheetname "/")
-		(sheetfile "perfectkey.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "000798d8-d1e9-4979-8d9c-9e72bbbe17cb")
-		)
-		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c016a25c-412b-45c1-87c7-671b3087fe45")
-		)
-		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "f7e62bc8-6c8b-4a4a-a28e-4134ca87faee")
-		)
-		(fp_line
-			(start -7 -7)
-			(end -5 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "e49ae082-b0e0-4a5e-876f-c55c52462587")
-		)
-		(fp_line
-			(start -7 -5)
-			(end -7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c0783f31-9dc3-4f94-819a-cffb7ef35301")
-		)
-		(fp_line
-			(start -7 7)
-			(end -7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "9ce687a0-491b-4811-b978-d7eace5b672e")
-		)
-		(fp_line
-			(start -5 7)
-			(end -7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "341aa3a6-8ebe-4469-a5f1-f41243d0839e")
-		)
-		(fp_line
-			(start 5 -7)
-			(end 7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "c99daf6a-947b-4c67-bcb2-62198aa0d603")
-		)
-		(fp_line
-			(start 5 7)
-			(end 7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "e58874c5-7e3c-4115-9e1a-924c5cc340e2")
-		)
-		(fp_line
-			(start 7 -7)
-			(end 7 -5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "67c1d89f-a418-441f-a6b5-13e40ff9bf08")
-		)
-		(fp_line
-			(start 7 7)
-			(end 7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "e47816db-c8d4-456e-a95a-9a14d70eaa0e")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7f766da5-7f04-49c4-a08b-158ad019bca7")
-		)
-		(fp_line
-			(start -15.28125 -5.499999)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "9c0e349a-fe05-4796-8fc5-a34fbc7a6e56")
-		)
-		(fp_line
-			(start -14.78125 -5.999999)
-			(end -9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5ca4b731-b8be-4b91-b2c2-586152753fd3")
-		)
-		(fp_line
-			(start -14.78125 8.000001)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "cdaf48e0-0d60-4278-8198-2bb15ccf0ee9")
-		)
-		(fp_line
-			(start -8.53125 -5.499999)
-			(end -8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5c7a9068-0b58-4fbc-a16a-d32fa85a5062")
-		)
-		(fp_line
-			(start 8.53125 -5.499999)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "2ffe7f3a-ab45-43a0-bc83-a0c0cabc57b9")
-		)
-		(fp_line
-			(start 9.03125 -5.999999)
-			(end 14.780039 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "7d945c62-4133-44ca-ac4f-a850d17fb4e9")
-		)
-		(fp_line
-			(start 9.03125 8.000001)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5091963d-faef-49a5-9ee9-13c6cf0c511f")
-		)
-		(fp_line
-			(start 15.280039 -5.499999)
-			(end 15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "8a83570d-b165-4b4e-9182-d98d1c5c86b4")
-		)
-		(fp_arc
-			(start -15.28125 -5.499999)
-			(mid -15.134803 -5.853552)
-			(end -14.78125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "3b2373d0-4f15-453f-9387-ba459a1143cf")
-		)
-		(fp_arc
-			(start -14.78125 8.000001)
-			(mid -15.134803 7.853554)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "52f06daf-160c-4b9c-8b61-eb1853b68d1f")
-		)
-		(fp_arc
-			(start -9.03125 -5.999999)
-			(mid -8.677697 -5.853552)
-			(end -8.53125 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "eb0de0e9-a935-400e-b4b7-f73fdc03e756")
-		)
-		(fp_arc
-			(start -8.53125 7.500001)
-			(mid -8.677697 7.853554)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a2d6ed03-7a06-4038-a2c9-a1f9a7b50c6a")
-		)
-		(fp_arc
-			(start 8.53125 -5.499999)
-			(mid 8.677697 -5.853552)
-			(end 9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "f9fe09b2-f69b-4ffb-831e-ac8ab844b58a")
-		)
-		(fp_arc
-			(start 9.03125 8.000001)
-			(mid 8.677697 7.853554)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "a2bfbb2e-f281-4e3f-9f4e-1636c4c553c9")
-		)
-		(fp_arc
-			(start 14.780039 -5.999999)
-			(mid 15.133592 -5.853552)
-			(end 15.280039 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "1ba0bc38-5859-4866-b33c-5e283384759f")
-		)
-		(fp_arc
-			(start 15.28125 7.500001)
-			(mid 15.134803 7.853554)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "3719195d-f838-4dad-8485-06057910a306")
-		)
-		(fp_circle
-			(center -11.90625 -6.985)
-			(end -9.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "bed5cccb-4df1-4f6a-8203-45938469e5a7")
-		)
-		(fp_circle
-			(center 11.90625 -6.985)
-			(end 13.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "4a72f815-dd29-48d1-87c3-faa0790dfe45")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "ccf63e54-1bd3-4bd6-9db2-f928186c9bad")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "59ad5d28-ca3a-41b1-9651-f5379bcfba6b")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "91663826-d7b5-47eb-8da2-1f62382d2330")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "704e4478-bbf5-48fe-8092-afe379434a6e")
-		)
-		(group ""
-			(uuid "47a96331-0261-48fc-a29e-dc2c44fca50d")
-			(members "1ba0bc38-5859-4866-b33c-5e283384759f" "2ffe7f3a-ab45-43a0-bc83-a0c0cabc57b9"
-				"3719195d-f838-4dad-8485-06057910a306" "5091963d-faef-49a5-9ee9-13c6cf0c511f"
-				"7d945c62-4133-44ca-ac4f-a850d17fb4e9" "8a83570d-b165-4b4e-9182-d98d1c5c86b4"
-				"a2bfbb2e-f281-4e3f-9f4e-1636c4c553c9" "f9fe09b2-f69b-4ffb-831e-ac8ab844b58a"
-			)
-		)
-		(group ""
-			(uuid "73519d5e-d1a8-4d16-84b4-9e591398951a")
-			(members "3b2373d0-4f15-453f-9387-ba459a1143cf" "52f06daf-160c-4b9c-8b61-eb1853b68d1f"
-				"5c7a9068-0b58-4fbc-a16a-d32fa85a5062" "5ca4b731-b8be-4b91-b2c2-586152753fd3"
-				"9c0e349a-fe05-4796-8fc5-a34fbc7a6e56" "a2d6ed03-7a06-4038-a2c9-a1f9a7b50c6a"
-				"cdaf48e0-0d60-4278-8198-2bb15ccf0ee9" "eb0de0e9-a935-400e-b4b7-f73fdc03e756"
-			)
-		)
-		(embedded_fonts no)
-	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "f55b2360-ad22-4ee7-ae6a-12575378a59b")
@@ -26586,6 +25854,12 @@
 		(path "/fbd85b25-7793-40b0-be05-dee01ca9e535")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26819,417 +26093,6 @@
 			)
 		)
 	)
-	(footprint "PCM_marbastlib-mx:STAB_MX_2u"
-		(layer "F.Cu")
-		(uuid "f61ced55-74ea-43a6-92cf-676b35c5a75d")
-		(at -122.80875 112.89575)
-		(descr "Footprint for Cherry Clip/Screw in type stabilizers, 2u")
-		(property "Reference" "S6"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "a0bad55a-fe53-48e0-90f2-8e3ebee998e8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "MX_stab"
-			(at 0 8.128 0)
-			(layer "Cmts.User")
-			(uuid "c445d26e-eb9c-4ae0-8c44-18c075a6bc0c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a773ea94-a297-45a0-a86b-83aa063b7ee2")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Cherry MX-style stabilizer"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5ca45f06-1337-47ad-9c1b-985f4d031976")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(path "/0c448bd2-205e-4411-9b17-f719d0fc26db")
-		(sheetname "/")
-		(sheetfile "perfectkey.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -19.05 -9.525)
-			(end -19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "2adb4525-d788-4160-941b-619497d7c08d")
-		)
-		(fp_line
-			(start -19.05 -9.525)
-			(end 19.05 -9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "a84f1988-2342-4a01-8d55-7dcbd19ffa61")
-		)
-		(fp_line
-			(start -19.05 9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "43864310-940a-4509-8078-b19a37dae813")
-		)
-		(fp_line
-			(start -7 -7)
-			(end -5 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "4abb7cfb-3e34-40cc-ae19-3c276d061b16")
-		)
-		(fp_line
-			(start -7 -5)
-			(end -7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "245eff10-4107-4e6a-83ac-0a7624a085e1")
-		)
-		(fp_line
-			(start -7 7)
-			(end -7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "87811ee9-8bb1-4a31-b5aa-dfd34ef7cac0")
-		)
-		(fp_line
-			(start -5 7)
-			(end -7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "8fc37fd0-0182-4b26-a2d5-d80da14cc492")
-		)
-		(fp_line
-			(start 5 -7)
-			(end 7 -7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "ccec86b1-092e-4f05-962e-eb0e608f0c6c")
-		)
-		(fp_line
-			(start 5 7)
-			(end 7 7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "92d5f458-5519-4e57-9242-44098d7cd650")
-		)
-		(fp_line
-			(start 7 -7)
-			(end 7 -5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "2e8f7720-a525-4ea3-8a58-cd3919851171")
-		)
-		(fp_line
-			(start 7 7)
-			(end 7 5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "16563da8-ce2a-4203-821f-5f303ba7d212")
-		)
-		(fp_line
-			(start 19.05 -9.525)
-			(end 19.05 9.525)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "288b8a85-1627-49f8-80ca-e013561c4d1c")
-		)
-		(fp_line
-			(start -15.28125 -5.499999)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5caf13a3-ab12-452e-85e5-c302b3656e42")
-		)
-		(fp_line
-			(start -14.78125 -5.999999)
-			(end -9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "8bc0bbee-a74d-443f-87fa-47853ad3b0b7")
-		)
-		(fp_line
-			(start -14.78125 8.000001)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "90ba7c8e-2d9d-4b24-893b-c5f17ced905f")
-		)
-		(fp_line
-			(start -8.53125 -5.499999)
-			(end -8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "f0af6089-4041-4ac9-bd30-d2cb7469a0af")
-		)
-		(fp_line
-			(start 8.53125 -5.499999)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "d321b3ba-77be-4fde-b4c3-474b02d99d7e")
-		)
-		(fp_line
-			(start 9.03125 -5.999999)
-			(end 14.780039 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "616b09f3-36e2-4b90-be9f-7191a7e3b147")
-		)
-		(fp_line
-			(start 9.03125 8.000001)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "6268e382-ea82-4964-ab06-184f15ad0640")
-		)
-		(fp_line
-			(start 15.280039 -5.499999)
-			(end 15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "5d7c1b9a-9e74-4523-95cf-3c395377d650")
-		)
-		(fp_arc
-			(start -15.28125 -5.499999)
-			(mid -15.134803 -5.853552)
-			(end -14.78125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "af2bb5b9-7cc1-41f5-9f2f-855169bd8dfc")
-		)
-		(fp_arc
-			(start -14.78125 8.000001)
-			(mid -15.134803 7.853554)
-			(end -15.28125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "98d8e53d-ca36-46d1-895d-293ebb373a65")
-		)
-		(fp_arc
-			(start -9.03125 -5.999999)
-			(mid -8.677697 -5.853552)
-			(end -8.53125 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "94302398-12e7-4a7a-a7b5-df42f95f7e37")
-		)
-		(fp_arc
-			(start -8.53125 7.500001)
-			(mid -8.677697 7.853554)
-			(end -9.03125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "2b90762b-94bc-4a46-ba48-0e6100536da9")
-		)
-		(fp_arc
-			(start 8.53125 -5.499999)
-			(mid 8.677697 -5.853552)
-			(end 9.03125 -5.999999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "d963f480-3cb9-4f64-8ed1-546449193878")
-		)
-		(fp_arc
-			(start 9.03125 8.000001)
-			(mid 8.677697 7.853554)
-			(end 8.53125 7.500001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "be17a225-6d1b-4351-b8da-48ce5ad0507b")
-		)
-		(fp_arc
-			(start 14.780039 -5.999999)
-			(mid 15.133592 -5.853552)
-			(end 15.280039 -5.499999)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "d50b35df-10ab-46d9-8657-c64f72377b78")
-		)
-		(fp_arc
-			(start 15.28125 7.500001)
-			(mid 15.134803 7.853554)
-			(end 14.78125 8.000001)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "Eco2.User")
-			(uuid "aeff1013-be32-405b-96d0-0c2bddc4fc8c")
-		)
-		(fp_circle
-			(center -11.90625 -6.985)
-			(end -9.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "a4823572-4d2a-4b5f-84ce-f9de83e01570")
-		)
-		(fp_circle
-			(center 11.90625 -6.985)
-			(end 13.90625 -6.985)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "8c85f3a9-ece2-427c-8d84-281fce6d7cae")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "01051d70-a3af-4812-a4c0-9c53f7f7d048")
-		)
-		(pad "" np_thru_hole circle
-			(at -11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "2d710a01-8583-4d5e-b1bf-abfa6766c5b1")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 -6.985)
-			(size 3.048 3.048)
-			(drill 3.048)
-			(layers "*.Cu" "*.Mask")
-			(uuid "2aa7f6dd-1d7e-43a5-bfe9-9e0f63d449d5")
-		)
-		(pad "" np_thru_hole circle
-			(at 11.90625 8.255)
-			(size 3.9878 3.9878)
-			(drill 3.9878)
-			(layers "*.Cu" "*.Mask")
-			(uuid "fd6488d1-109c-44bf-817b-2e4959232854")
-		)
-		(group ""
-			(uuid "ab1608c4-727c-40d8-a7f9-153b7c8ad388")
-			(members "5d7c1b9a-9e74-4523-95cf-3c395377d650" "616b09f3-36e2-4b90-be9f-7191a7e3b147"
-				"6268e382-ea82-4964-ab06-184f15ad0640" "aeff1013-be32-405b-96d0-0c2bddc4fc8c"
-				"be17a225-6d1b-4351-b8da-48ce5ad0507b" "d321b3ba-77be-4fde-b4c3-474b02d99d7e"
-				"d50b35df-10ab-46d9-8657-c64f72377b78" "d963f480-3cb9-4f64-8ed1-546449193878"
-			)
-		)
-		(group ""
-			(uuid "aca2a0fc-9de4-4040-9102-9c8ca64ef7a0")
-			(members "2b90762b-94bc-4a46-ba48-0e6100536da9" "5caf13a3-ab12-452e-85e5-c302b3656e42"
-				"8bc0bbee-a74d-443f-87fa-47853ad3b0b7" "90ba7c8e-2d9d-4b24-893b-c5f17ced905f"
-				"94302398-12e7-4a7a-a7b5-df42f95f7e37" "98d8e53d-ca36-46d1-895d-293ebb373a65"
-				"af2bb5b9-7cc1-41f5-9f2f-855169bd8dfc" "f0af6089-4041-4ac9-bd30-d2cb7469a0af"
-			)
-		)
-		(embedded_fonts no)
-	)
 	(footprint "PCM_marbastlib-mx:SW_MX_1u"
 		(layer "F.Cu")
 		(uuid "fad33489-c8fc-459f-b9a7-e7a713cb97b3")
@@ -27284,6 +26147,12 @@
 		(path "/71118ef5-4c6a-4029-b966-5843469dbdce")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27571,6 +26440,12 @@
 		(path "/ba9fd0b0-832a-4dae-9972-360a2f5952c3")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27858,6 +26733,12 @@
 		(path "/58e5fb37-2f78-40ea-b6cf-b000af4164b1")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28190,6 +27071,12 @@
 		(path "/5b806668-6881-46f5-a03d-a78bd8019174")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28496,6 +27383,12 @@
 		(path "/4a94bc3b-bfdc-4132-8232-deb6b7ed40f2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28802,6 +27695,12 @@
 		(path "/02de44c4-dde8-439e-ae2f-f0435cdd9ae8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29108,6 +28007,12 @@
 		(path "/c2d4895c-6d05-4dc8-85c1-5a6b861d6f87")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29414,6 +28319,12 @@
 		(path "/96e50d2d-7fa8-4084-a62b-fb575e70e574")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29720,6 +28631,12 @@
 		(path "/ea1fd4d5-7e91-4e0a-916a-e31f83b2dd49")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30026,6 +28943,12 @@
 		(path "/c35be4cd-8170-4a4e-aeaa-a83352d464e9")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30332,6 +29255,12 @@
 		(path "/4a3bb9c1-cdeb-4238-acb5-5d0f5291c723")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30638,6 +29567,12 @@
 		(path "/92519fb4-b0fe-4d69-b034-8dec1d579dc8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30944,6 +29879,12 @@
 		(path "/17c96f48-897f-46c4-9e54-bed822d772f2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31250,6 +30191,12 @@
 		(path "/978642b2-5c2a-4104-bfa4-3a0265e0d872")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31556,6 +30503,12 @@
 		(path "/6f792c2f-2631-477d-bb4d-17e45e0bc1f8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31862,6 +30815,12 @@
 		(path "/82f0079d-6efd-483b-8190-4c9ce827de9b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32168,6 +31127,12 @@
 		(path "/a5f205cd-36c0-41ea-9b75-ee569eb9d8e9")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32474,6 +31439,12 @@
 		(path "/a93e80f0-9f22-4bc5-83ac-326b811982a7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32780,6 +31751,12 @@
 		(path "/deb31534-42b3-4f55-81c4-61f5d0aa4c27")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33086,6 +32063,12 @@
 		(path "/a3a3c572-b57d-4c5d-bd45-05194d76de80")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33392,6 +32375,12 @@
 		(path "/ac6374c5-f0a8-443c-be00-cc1165f8b3b6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33698,6 +32687,12 @@
 		(path "/ee8b93d6-76cb-4e9c-8321-fae0f51dba13")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34004,6 +32999,12 @@
 		(path "/bca38d1e-9d10-4b90-852f-52857f874770")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34310,6 +33311,12 @@
 		(path "/926391b7-cfe5-4dad-b314-50d77614ec3a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34616,6 +33623,12 @@
 		(path "/e67e58e7-97bf-4e8e-b538-3b727fc99442")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -34922,6 +33935,12 @@
 		(path "/96c7d887-9eba-43f4-8276-cd6941857662")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35228,6 +34247,12 @@
 		(path "/9879b3f3-e5c8-432b-9fab-9562a5f94030")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35534,6 +34559,12 @@
 		(path "/62ccb074-4e36-4727-b737-6aca7c603bd3")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35840,6 +34871,12 @@
 		(path "/5693774e-c738-4d6a-9d6a-d0bae6c23b07")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36146,6 +35183,12 @@
 		(path "/86e5edc3-9529-49e1-a113-470a419a2340")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36452,6 +35495,12 @@
 		(path "/3469a430-5c57-49d8-a4d4-3e3e5116b195")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36758,6 +35807,12 @@
 		(path "/44b3cb84-1fb4-49b1-9a5e-940f6b5410ef")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37064,6 +36119,12 @@
 		(path "/6a44433c-f789-4c2e-a2b2-3e092c58df8a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37370,6 +36431,12 @@
 		(path "/b0d2d6b9-69e2-4954-9f8b-045373bbc7a6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37676,6 +36743,12 @@
 		(path "/29ff814c-702c-4eaa-899e-24a712b7978a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37982,6 +37055,12 @@
 		(path "/5e0c4ccf-a191-4931-bd23-635fef037a64")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38288,6 +37367,12 @@
 		(path "/74a19188-acd4-4d47-ba34-1ae5be892865")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38594,6 +37679,12 @@
 		(path "/48c638ae-d4d0-4b4e-9c3d-bdbba8d3425b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -38900,6 +37991,12 @@
 		(path "/fa4a1639-7748-4281-9883-152205152b28")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39206,6 +38303,12 @@
 		(path "/0def1dd1-c1fc-4886-a153-e2aef03906cb")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39512,6 +38615,12 @@
 		(path "/e439e571-0ac2-4925-a67b-673ce37572fc")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -39818,6 +38927,12 @@
 		(path "/5d939f80-6c2d-43bc-a043-dc60881860e3")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40124,6 +39239,12 @@
 		(path "/abe9383e-48fe-479d-8ed6-7a9eafc9a412")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40430,6 +39551,12 @@
 		(path "/54b723a4-ce0a-41e0-b997-1152be9437af")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -40736,6 +39863,12 @@
 		(path "/b23ec072-b782-4bd5-b598-fa192e8a8203")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41042,6 +40175,12 @@
 		(path "/ac88fa10-0861-40b9-966a-1c0bc970870e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41348,6 +40487,12 @@
 		(path "/4f2e814c-e233-4693-9607-577cbe38ef4c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41654,6 +40799,12 @@
 		(path "/0ebc9474-0e43-49ee-bd5b-794972d881d2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -41960,6 +41111,12 @@
 		(path "/3e1334f9-b9df-4e91-a655-b729fd10c2cc")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42266,6 +41423,12 @@
 		(path "/34bb7fd1-4c97-405b-9b6c-746584786392")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42572,6 +41735,12 @@
 		(path "/7af5faf5-af26-45fc-9156-31a3a645564b")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -42878,6 +42047,12 @@
 		(path "/f8c7ff82-18fa-4b5e-a464-cc5222d45eb3")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43184,6 +42359,12 @@
 		(path "/66fe268d-eebd-40e3-b9c4-304194df4308")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43490,6 +42671,12 @@
 		(path "/0de62449-80f4-407f-a8a8-6f26cbb151cc")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -43796,6 +42983,12 @@
 		(path "/ef031ef3-f41b-4bc0-adad-e032d3837967")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44102,6 +43295,12 @@
 		(path "/dec99e60-7011-4ddc-93f5-4a83a55fcaa9")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44408,6 +43607,12 @@
 		(path "/3c601051-a8d4-400c-8e3f-00ec0df5bfff")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -44714,6 +43919,12 @@
 		(path "/cbf4b204-96f9-494e-a061-3fab2dcce580")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45020,6 +44231,12 @@
 		(path "/a5715fdc-9005-4694-a29f-94f94d5184d2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45326,6 +44543,12 @@
 		(path "/ee727658-f81d-4406-9892-1756c38afe2e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45632,6 +44855,12 @@
 		(path "/53c0fa4d-fe68-4fbc-909e-3ee5c66817fe")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -45938,6 +45167,12 @@
 		(path "/11ace3e9-9954-470a-b529-f2e56b9423f6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46244,6 +45479,12 @@
 		(path "/270ee805-170a-4d5f-b81a-d445f6f7dc7f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46550,6 +45791,12 @@
 		(path "/f6237279-e317-4388-91dd-8c2c809b8b95")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -46856,6 +46103,12 @@
 		(path "/3de6f537-4d41-4e95-a858-edfb4a5ea454")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47162,6 +46415,12 @@
 		(path "/e4ea898f-8307-4764-ae73-93c43e4c2358")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47468,6 +46727,12 @@
 		(path "/8a848b0d-1d55-45e5-95b5-6e9a3a4baf5d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -47774,6 +47039,12 @@
 		(path "/cadb95c5-88ff-4847-9af3-d99385c9b170")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48080,6 +47351,12 @@
 		(path "/33a5eac8-2f46-4a91-90a3-b604ce99298a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48386,6 +47663,12 @@
 		(path "/db343e45-ff87-4e2e-b6d8-eda877cabe1e")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48692,6 +47975,12 @@
 		(path "/3e78879e-9ec9-4a39-94f7-baf3309d2eed")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -48998,6 +48287,12 @@
 		(path "/e035f47e-b0c1-4e58-beed-8e6eaa01f201")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49304,6 +48599,12 @@
 		(path "/86eb39f2-3cdf-4795-9f67-c7971baa6abc")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49610,6 +48911,12 @@
 		(path "/6526a4a8-737c-4ff8-9c41-80a94a4e6dce")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -49916,6 +49223,12 @@
 		(path "/aa9ced48-036c-43e4-a5c9-c5eb3bb3479f")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50222,6 +49535,12 @@
 		(path "/bcb7cfe6-6285-4f0d-9faa-f9703bdefba6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50528,6 +49847,12 @@
 		(path "/6d628c4a-97b8-49b0-a691-e27ad94bd90a")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -50834,6 +50159,12 @@
 		(path "/66fd13a4-0cc9-4d9a-a227-ce12c2337f41")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51140,6 +50471,12 @@
 		(path "/8b494a4b-43dd-4640-811b-8749cc895ed4")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51446,6 +50783,12 @@
 		(path "/d35489a8-c694-4216-861c-71c13bb9d88c")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -51752,6 +51095,12 @@
 		(path "/ea122159-ca8d-4f92-b8eb-3168152759a4")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52058,6 +51407,12 @@
 		(path "/2330fbaf-f632-4fba-9f71-01b94b66c6e7")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52364,6 +51719,12 @@
 		(path "/c3de3bf0-d4be-4011-8425-252b9d1432dd")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52670,6 +52031,12 @@
 		(path "/f98cd3f4-e538-4af5-9224-e1c92736cfd6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -52976,6 +52343,12 @@
 		(path "/432c8a6b-fcb9-4948-9691-79ff66c6761d")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53282,6 +52655,12 @@
 		(path "/614bf88c-a8b3-4e6a-b871-088049a15fe8")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53588,6 +52967,12 @@
 		(path "/a8a3240b-96f9-4603-8e37-604eb46610a6")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -53894,6 +53279,12 @@
 		(path "/7626505a-19b0-4bab-b472-d319124251e2")
 		(sheetname "/")
 		(sheetfile "perfectkey.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
