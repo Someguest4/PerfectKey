@@ -4,13 +4,13 @@ A project following the [HackClub KEEB project tutorial](https://keeb.hackclub.c
 I have always been a perfectionist and I often find myself following the lines between the keys on my keyboard instead of doing my homework so I decided to make a keyboard with perfectly aligned keys.
 
 ## What it is
-An ortholinear TKL keyboard, designed from scratch in KiCad. All mods are 2u, spacebar is 7u, board is about 350x165mm with a strip for the Pico, switches are on the normal 19.05mm grid, USB-C with a cutout in the case, just one stabilizer for the spacebar, because the footprints wouldn't fit directly above each other and it's not like the 2u keys will wobble enough to need a stabilizer :|
+An ortholinear TKL keyboard, designed from scratch in KiCad. All modifier keys are 2u, spacebar is 7u, board is 350x165mm with a strip for the Pico, switches are on the normal 19.05mm grid, USB-C with a cutout in the case, just one stabilizer for the spacebar, because the footprints wouldn't fit directly above each other and it's not like the 2u keys will wobble enough to need a stabilizer :|
 
 ## Repo structure
 - `kicad/` - schematic and PCB layout, Gerbers, drill files
 - `case/` - case and plate files
 - `photos/` - build photos for journal
-
+- `firmware/` compiled ready to flash firmware
 ## Build log
 
 **2026-07-11 - Schematic:**
@@ -44,7 +44,7 @@ Started designing the case, rage quit because of Onshape (can't expect much from
 
 ![Case start](photos/2026-07-22-case-start.png)
 
-**2026-07-23 - Case, mostly:**
+**2026-07-23 - Case, mostly finished:**
 Did most of the case but no space for screw holes.
 
 **2026-07-24 - Case finished:**
