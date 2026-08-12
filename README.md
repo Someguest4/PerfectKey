@@ -1,5 +1,5 @@
 # Perfectionist Keyboard
-A project following the [HackClub KEEB project docs](https://keeb.hackclub.com/docs), making a custom mechanical keyboard from scratch.
+A project following the [HackClub KEEB project tutorial](https://keeb.hackclub.com/docs), making a custom mechanical keyboard from scratch.
 
 I have always been a perfectionist and I often find myself following the lines between the keys on my keyboard instead of doing my homework so I decided to make a keyboard with perfectly aligned keys.
 
@@ -53,5 +53,8 @@ Made the case bigger so the holes fit and made the top plate removable.
 ![Case assembled](photos/2026-07-24-case-assembled.png)
 ![Case exploded view](photos/2026-07-24-case-exploded.png)
 
+## Firmware
+I went with QMK since I used it for my hackpad. All handwired since it's a custom layout. Compiles clean, just waiting on the actual hardware to test.
+
 ## Status
-PCB and case design done, firmware next and them hoping and waiting for approval
+Everything done, hoping and waiting for approval
