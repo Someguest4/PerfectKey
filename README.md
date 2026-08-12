@@ -53,5 +53,8 @@ Made the case bigger so the holes fit and made the top plate removable.
 ![Case assembled](photos/2026-07-24-case-assembled.png)
 ![Case exploded view](photos/2026-07-24-case-exploded.png)
 
+## Firmware
+I went with QMK since I used it for my hackpad. All handwired since it's a custom layout. Compiles clean, just waiting on the actual hardware to test.
+
 ## Status
-PCB and case design done, firmware next and them hoping and waiting for approval
+Everything done, hoping and waiting for approval
