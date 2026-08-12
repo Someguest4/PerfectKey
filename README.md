@@ -44,7 +44,7 @@ Started designing the case, rage quit because of Onshape (can't expect much from
 
 ![Case start](photos/2026-07-22-case-start.png)
 
-**2026-07-23 - Case, mostly:**
+**2026-07-23 - Case, mostly finished:**
 Did most of the case but no space for screw holes.
 
 **2026-07-24 - Case finished:**
